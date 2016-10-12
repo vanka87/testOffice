@@ -123,6 +123,6 @@ public class ExcelPrinter {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("Excel file has been created!");
+        System.out.println("Excel file has been created (results/ReportMyOffice.xls)!");
     }
 }
