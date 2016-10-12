@@ -9,14 +9,6 @@ package testoffice;
  *
  * @author Nataly
  */
-public class TestOffice {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-               
-    }
+public class Manager {
     
 }
